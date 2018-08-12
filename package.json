@@ -1,8 +1,8 @@
 {
   "name": "personal",
   "version": "0.1.1",
-  "private": true,
-  "homepage": "http://ouwen.github.io/bme590/",
+  "private": false,
+  "homepage": "https://ouwen.io/bme/",
   "devDependencies": {
     "gh-pages": "^1.0.0",
     "react-scripts": "1.0.17"
