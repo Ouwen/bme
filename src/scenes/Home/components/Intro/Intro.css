@@ -1,0 +1,56 @@
+.flex {
+  flex: 1;
+}
+
+.menuButton {
+  margin-right: 20px;
+  margin-left: -12px;
+}
+
+.split-hero {
+  color: white;
+}
+.split-hero .weight {
+  font-weight: 200;
+}
+.split-hero .top {
+  height: 200px;
+}
+.split-hero .bottom {
+  padding-bottom: 50px;
+}
+
+.split-hero .profile {
+  position: absolute;
+  margin-top: 100px;
+  margin-left: -100px;
+  height: 200px;
+  left: 50%;
+  width: 200px;
+  z-index: 1;
+}
+
+.split-hero .profile-sm {
+  position: absolute;
+  margin-top: 150px;
+  margin-left: -50px;
+  height: 100px;
+  left: 50%;
+  width: 100px;
+  z-index: 1;
+}
+
+.split-hero .profile-offset {
+  padding-top: 150px;
+}
+
+.split-hero .snippet {
+  margin-top: 25px
+}
+
+.desktop-padding {
+  padding: 0 20%;
+}
+.phone-padding {
+  padding: 0 20px;
+}
